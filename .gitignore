@@ -1,1 +1,4 @@
-anubis-solve
+pow-solve
+pow-solve-*
+!pow-solve.c
+!pow-solve.py
